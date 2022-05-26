@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T12:15:22.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="HC0TGFcSogc4ciULmpVh" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T12:21:42.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="6lxsdkO-IlL72iPtwzDG" version="18.1.2" type="github">
   <diagram id="if6piKte3GzxDBWlS_y1" name="Page-1">
     <mxGraphModel dx="981" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="tJqlnVi8KMV9B9Gx3-_q-37" value="Affected vs Unaffected&lt;br&gt;Cycling vs Clinic" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="471" y="292" width="217.5" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="tJqlnVi8KMV9B9Gx3-_q-39" value="One-Way ANOVAL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="tJqlnVi8KMV9B9Gx3-_q-39" value="One-Way ANOVA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="405" y="386" width="168" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="tJqlnVi8KMV9B9Gx3-_q-41" value="Regression Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
