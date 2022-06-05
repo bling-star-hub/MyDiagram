@@ -1,6 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T00:30:43.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2u7PaRT9_B1r5_5KPhjO" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-05T00:36:39.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="81tiV3fw1fSxIP92aI3N" version="19.0.0" type="github" pages="2">
+  <diagram id="gGKM9XSxVaQECG3e-2jI" name="三次握手">
+    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ruxt86QbMwqqmmdqynrE-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOSE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="88.5" y="216" width="119" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOSE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="471" y="216" width="119" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-4" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SYN_SENT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="88.5" y="300" width="119" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-5" value="socket()、connect (阻塞)&lt;br style=&quot;font-size: 14px;&quot;&gt;主动打开" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="62" y="263" width="167" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-6" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SYN_RCVD&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="471" y="358" width="119" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-8" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;LISTEN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="471" y="304" width="119" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-7" value="socket()、bind()、listen()&lt;br&gt;被动打开" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="446" y="263" width="167" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-9" value="accept (阻塞)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="445" y="354" width="167" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;ESTABLISHED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="88.5" y="483" width="119" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-10" value="connect (返回)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="64" y="458" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;ESTABLISHED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="471" y="535" width="119" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-14" value="accept (返回)&lt;br&gt;read (阻塞)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="449" y="510" width="165" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-15" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#172EFF;strokeColor=#172EFF;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-5" target="ruxt86QbMwqqmmdqynrE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="503" as="sourcePoint" />
+            <mxPoint x="437" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-16" value="SYN&lt;br&gt;Seq Num = client_isn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#6666FF;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-15">
+          <mxGeometry x="-0.1581" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#172EFF;strokeColor=#FF8000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-9" target="ruxt86QbMwqqmmdqynrE-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="362" y="464" as="sourcePoint" />
+            <mxPoint x="437" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-19" value="&lt;font color=&quot;#ff8000&quot;&gt;SYN + ACK&lt;br&gt;Ack Num = client_isn + 1&lt;br&gt;Seq Num = server_isn&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#172EFF;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-17">
+          <mxGeometry x="0.1219" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-18" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#172EFF;strokeColor=#00FF00;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-10" target="ruxt86QbMwqqmmdqynrE-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="485" as="sourcePoint" />
+            <mxPoint x="437" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruxt86QbMwqqmmdqynrE-20" value="&lt;font&gt;ACK&lt;br&gt;Ack Num = server_isn + 1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#00CC00;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-18">
+          <mxGeometry x="-0.1445" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="SM4QSS9hR532dFGquqLZ" name="OSI">
-    <mxGraphModel dx="1422" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,86 +370,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="400" as="sourcePoint" />
             <mxPoint x="550" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="gGKM9XSxVaQECG3e-2jI" name="三次握手">
-    <mxGraphModel dx="1422" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ruxt86QbMwqqmmdqynrE-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOSE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="216" width="119" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CLOSE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="471" y="216" width="119" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-4" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SYN_SENT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="300" width="119" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-5" value="socket()、connect (阻塞)&lt;br style=&quot;font-size: 14px;&quot;&gt;主动打开" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="62" y="263" width="167" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-6" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;SYN_RCVD&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="471" y="358" width="119" height="177" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-8" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;LISTEN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="471" y="304" width="119" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-7" value="socket()、bind()、listen()&lt;br&gt;被动打开" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="446" y="263" width="167" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-9" value="accept (阻塞)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="445" y="354" width="167" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;ESTABLISHED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="483" width="119" height="171" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-10" value="connect (返回)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="64" y="458" width="166" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;ESTABLISHED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="471" y="535" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-14" value="accept (返回)&lt;br&gt;read (阻塞)" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#36393d;strokeWidth=2;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="449" y="510" width="165" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-15" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#172EFF;strokeColor=#172EFF;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-5" target="ruxt86QbMwqqmmdqynrE-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="503" as="sourcePoint" />
-            <mxPoint x="437" y="453" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-16" value="SYN&lt;br&gt;Seq Num = client_isn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#6666FF;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-15">
-          <mxGeometry x="-0.1581" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#172EFF;strokeColor=#FF8000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-9" target="ruxt86QbMwqqmmdqynrE-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="362" y="464" as="sourcePoint" />
-            <mxPoint x="437" y="435" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="330" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-19" value="&lt;font color=&quot;#ff8000&quot;&gt;SYN + ACK&lt;br&gt;Ack Num = client_isn + 1&lt;br&gt;Seq Num = server_isn&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#172EFF;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-17">
-          <mxGeometry x="0.1219" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-18" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#172EFF;strokeColor=#00FF00;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruxt86QbMwqqmmdqynrE-10" target="ruxt86QbMwqqmmdqynrE-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="485" as="sourcePoint" />
-            <mxPoint x="437" y="435" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxt86QbMwqqmmdqynrE-20" value="&lt;font&gt;ACK&lt;br&gt;Ack Num = server_isn + 1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;fontColor=#00CC00;fontStyle=1" vertex="1" connectable="0" parent="ruxt86QbMwqqmmdqynrE-18">
-          <mxGeometry x="-0.1445" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
