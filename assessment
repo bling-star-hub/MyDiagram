@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T12:39:50.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZD0WFHTcidc4ceDS8kST" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-30T14:47:16.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fVqOhBLPmbIMcJMNAXjn" version="20.0.3" type="github" pages="6">
   <diagram id="jaqLuHQw-jFLCtQnIrnQ" name="Page-7">
     <mxGraphModel dx="981" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -453,6 +453,159 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="412.5" y="170" as="sourcePoint" />
             <mxPoint x="412" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="395" y="789" width="399" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffcc99;strokeColor=none;fontStyle=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="413" y="948" width="361" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="608.75" y="814" width="170.25" height="121.37" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="132" y="519.6800000000001" width="412" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-6" value="三轴加速度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="436" width="124" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-7" value="陀螺仪" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="436" width="123.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-8" value="肌电信号" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.75" y="436" width="124" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="32" y="904.87" width="351" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-10" value="膝关节运动分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="906.87" width="167.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-11" value="膝关节轴" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="52.63999999999996" y="998.87" width="90.44" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-12" value="关节角度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="684.13" y="475" width="91.25" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-13" value="&lt;b&gt;数据分段&lt;/b&gt;：基于关节角度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#FFCC99;strokeColor=#6c8ebf;gradientColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570.75" width="379" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="biXW-XgW_A9wbQds6qXP-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25" y="1069.87" as="sourcePoint" />
+            <mxPoint x="98.5" y="984.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-17" value="运动功能评估模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="483" y="789.38" width="235.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#d5e8d4;strokeColor=none;fontStyle=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="813.63" width="172" height="122.37" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-19" value="均方根(RMS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="336.25" y="660.0000000000001" width="142" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-20" value="&lt;div style=&quot;&quot;&gt;时域、频域特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="119.75" y="646" width="156" height="27.37" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-21" value="蹬车数据: 患侧 vs 健侧&lt;br style=&quot;font-size: 18px;&quot;&gt;临床数据: 患侧 vs 健侧" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="981.25" width="234" height="52.25" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-22" value="One-Way ANOVA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="422" y="1062" width="168" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-23" value="回归模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="598.25" y="1062" width="168" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-24" value="&lt;span style=&quot;&quot;&gt;肌电信号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="620" y="814.63" width="142.82" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-25" value="统计学分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="953.25" width="227" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="855" width="22.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="381" y="991.25" width="25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-28" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
+          <mxGeometry x="496" y="1038" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1038" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-30" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;加速度+陀螺仪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="416" y="819.63" width="155" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-31" value="互补滤波算法&lt;br&gt;θ&lt;sub&gt;aω,t&lt;/sub&gt; = λθ&lt;sub&gt;a,t&lt;/sub&gt; + (1−λ)(θ&lt;sub&gt;aω,t−δt&lt;/sub&gt; + θ&lt;sub&gt;ω,t&lt;/sub&gt; − θ&lt;sub&gt;ω,t−δt&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40.5" y="935.87" width="336.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="875.87" width="25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="582" y="923" width="25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="381" y="834.25" width="25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-35" value="运动协同分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="892" width="142" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小波包能量熵&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="119.75" y="677.37" width="156" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="biXW-XgW_A9wbQds6qXP-37" value="&lt;div style=&quot;&quot;&gt;肌肉协同分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="615" y="904.88" width="156" height="27.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#f0a30a;strokeColor=#FFE599;strokeWidth=2;" edge="1" parent="1" source="biXW-XgW_A9wbQds6qXP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="531" as="sourcePoint" />
+            <mxPoint x="358" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f0a30a;strokeColor=#FFE599;strokeWidth=2;" edge="1" parent="1" source="biXW-XgW_A9wbQds6qXP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="341.5" y="475" as="sourcePoint" />
+            <mxPoint x="462" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-3" value="低通滤波&lt;br&gt;(10Hz)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="491" width="263" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-4" value="带通滤波&lt;br&gt;(20-450Hz)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="491" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;strokeWidth=2;strokeColor=#A9C4EB;" edge="1" parent="1" source="biXW-XgW_A9wbQds6qXP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370.75" y="380" as="sourcePoint" />
+            <mxPoint x="182" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeColor=#FF9933;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Plp4w_HdWtsxXXKSlStb-4" target="biXW-XgW_A9wbQds6qXP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="628" as="sourcePoint" />
+            <mxPoint x="437" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeColor=#FF9933;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Plp4w_HdWtsxXXKSlStb-3" target="biXW-XgW_A9wbQds6qXP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.25" y="551" as="sourcePoint" />
+            <mxPoint x="238.625" y="581.1300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;endFill=1;strokeWidth=2;strokeColor=#A9C4EB;" edge="1" parent="1" target="biXW-XgW_A9wbQds6qXP-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="616" as="sourcePoint" />
+            <mxPoint x="192" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Plp4w_HdWtsxXXKSlStb-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#f0a30a;strokeColor=#FFE599;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="biXW-XgW_A9wbQds6qXP-13" target="biXW-XgW_A9wbQds6qXP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367.5" y="475" as="sourcePoint" />
+            <mxPoint x="368" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
