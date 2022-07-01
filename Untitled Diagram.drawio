@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T12:08:40.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="prkPk2fkcQkvztqrnpyH" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T12:21:10.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tnD1YuXnxflim66miipj" version="20.0.4" type="github">
   <diagram id="v8hTpokYwNXpzIlPlH0_" name="Page-1">
     <mxGraphModel dx="2249" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="8ZhRNXTZ8YyqBA9PioZG-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;处理客户逻辑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-823.75" y="599.5" width="102" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZhRNXTZ8YyqBA9PioZG-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请求行&lt;br&gt;请求头&lt;br&gt;空行&lt;br&gt;请求体&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-823.75" y="686" width="87" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
