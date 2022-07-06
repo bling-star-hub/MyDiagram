@@ -1,55 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T09:01:04.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SDBlLZ2aOpFFCtQuJ4V0" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-06T09:11:05.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XZteM-sNKgAaFONnYRMT" version="20.0.4" type="github" pages="7">
   <diagram id="jaqLuHQw-jFLCtQnIrnQ" name="Page-7">
-    <mxGraphModel dx="1422" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="393" y="105" width="399" height="318" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffcc99;strokeColor=none;fontStyle=1;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="411" y="264" width="361" height="151" as="geometry" />
+          <mxGeometry x="392" y="104" width="399" height="333" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="606.75" y="130" width="170.25" height="121.37" as="geometry" />
+          <mxGeometry x="606.75" y="135" width="170.25" height="121.37" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-10" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="233.5" y="104" width="145.5" height="149" as="geometry" />
+          <mxGeometry x="233.5" y="104" width="145.5" height="151" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-11" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=22;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="237" y="106" width="138" height="30" as="geometry" />
+          <mxGeometry x="238" y="108" width="138" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-12" value="三轴加速度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="242.75" y="176" width="124" height="29" as="geometry" />
+          <mxGeometry x="242.75" y="178" width="124" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-13" value="三轴陀螺仪" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="243.75" y="216" width="123.5" height="29" as="geometry" />
+          <mxGeometry x="243.75" y="218" width="123.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-14" value="肌电信号" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="243.5" y="138" width="124" height="29" as="geometry" />
+          <mxGeometry x="243.5" y="140" width="124" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="28" y="279.25" width="351" height="149" as="geometry" />
+          <mxGeometry x="27" y="279" width="351" height="157" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-16" value="肘/膝 关节运动分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=22;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="111" y="282.25" width="193" height="27.75" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-17" value="肘/膝关节轴" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="34" y="376" width="106.08" height="46" as="geometry" />
+          <mxGeometry x="39" y="384" width="106.08" height="46" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-18" value="关节角度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="152.5" y="375.25" width="91.25" height="47" as="geometry" />
+          <mxGeometry x="157.5" y="383.25" width="91.25" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-19" value="数据分段" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="269.5" y="376.25" width="92" height="44" as="geometry" />
+          <mxGeometry x="274.5" y="384.25" width="92" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UGK5M1_wHmO0Nht1jsvW-17" edge="1" target="UGK5M1_wHmO0Nht1jsvW-46">
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.164;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UGK5M1_wHmO0Nht1jsvW-17" edge="1" target="UGK5M1_wHmO0Nht1jsvW-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-29" y="445.25" as="sourcePoint" />
-            <mxPoint x="94.5" y="360.25" as="targetPoint" />
+            <mxPoint x="92" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-23" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.48;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="UGK5M1_wHmO0Nht1jsvW-18" edge="1" source="UGK5M1_wHmO0Nht1jsvW-46">
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-23" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.494;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="UGK5M1_wHmO0Nht1jsvW-18" edge="1" source="UGK5M1_wHmO0Nht1jsvW-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="197.5" y="360.25" as="sourcePoint" />
             <mxPoint x="21" y="395.25" as="targetPoint" />
@@ -57,36 +54,24 @@
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-24" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UGK5M1_wHmO0Nht1jsvW-18" target="UGK5M1_wHmO0Nht1jsvW-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="153" y="399.25" as="sourcePoint" />
-            <mxPoint x="133" y="399.25" as="targetPoint" />
+            <mxPoint x="158" y="407.25" as="sourcePoint" />
+            <mxPoint x="138" y="407.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-25" value="运动功能评估模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=22;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="481" y="105.38" width="235.12" height="28.62" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#d5e8d4;strokeColor=none;fontStyle=1;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="405.5" y="129.63" width="172" height="122.37" as="geometry" />
+          <mxGeometry x="405.5" y="134.63" width="172" height="122.37" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-28" value="均方根(RMS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="420.5" y="171" width="142" height="31" as="geometry" />
+          <mxGeometry x="420.5" y="176" width="142" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-30" value="&lt;div style=&quot;&quot;&gt;时频域特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="613" y="159.63" width="156" height="27.37" as="geometry" />
+          <mxGeometry x="613" y="164.63" width="156" height="27.37" as="geometry" />
         </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-31" value="蹬车数据: 患侧 vs 健侧&lt;br style=&quot;font-size: 18px;&quot;&gt;临床数据: 患侧 vs 健侧" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="474.5" y="298.25" width="234" height="52.25" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-32" value="One-Way ANOVA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="420" y="378" width="168" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-33" value="回归模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="596.25" y="378" width="168" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-34" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;肌电信号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;fillColor=none;strokeColor=none;fontStyle=1;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="618" y="130.63" width="142.82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-35" value="统计学分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="480.5" y="270.25" width="227" height="29" as="geometry" />
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;肌电信号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;strokeColor=none;fontStyle=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="618" y="135.63" width="142.82" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="213.5" y="154.25" width="22.5" height="44" as="geometry" />
@@ -94,134 +79,74 @@
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="379" y="307.25" width="25" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-42" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" parent="1" vertex="1">
-          <mxGeometry x="494" y="354" width="28" height="24" as="geometry" />
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-44" value="&lt;span style=&quot;font-weight: 700; font-size: 20px;&quot;&gt;加速度+陀螺仪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="140.63" width="155" height="23.75" as="geometry" />
         </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-43" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" parent="1" vertex="1">
-          <mxGeometry x="660" y="354" width="28" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-44" value="&lt;span style=&quot;font-weight: 700; font-size: 19px;&quot;&gt;加速度+陀螺仪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=19;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="414" y="135.63" width="155" height="23.75" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-46" value="互补滤波算法&lt;br&gt;θ&lt;sub&gt;aω,t&lt;/sub&gt; = λθ&lt;sub&gt;a,t&lt;/sub&gt; + (1−λ)(θ&lt;sub&gt;aω,t−δt&lt;/sub&gt; + θ&lt;sub&gt;ω,t&lt;/sub&gt; − θ&lt;sub&gt;ω,t−δt&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="36.5" y="311.25" width="336.5" height="47" as="geometry" />
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-46" value="互补滤波算法&lt;br&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;θ&lt;sub&gt;aω,t&lt;/sub&gt; = λθ&lt;sub&gt;a,t&lt;/sub&gt; + (1−λ)(θ&lt;sub&gt;aω,t−δt&lt;/sub&gt; + θ&lt;sub&gt;ω,t&lt;/sub&gt; − θ&lt;sub&gt;ω,t−δt&lt;/sub&gt;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="36.5" y="315.25" width="336.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="296" y="250.25" width="25" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="UGK5M1_wHmO0Nht1jsvW-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="580" y="239" width="25" height="44" as="geometry" />
+          <mxGeometry x="296" y="251.25" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="379" y="150.25" width="25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-59" value="运动协同分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="420.5" y="208" width="142" height="31" as="geometry" />
+          <mxGeometry x="420.5" y="213" width="142" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-60" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小波包能量熵&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="613" y="191" width="156" height="26" as="geometry" />
+          <mxGeometry x="613" y="196" width="156" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UGK5M1_wHmO0Nht1jsvW-61" value="&lt;div style=&quot;&quot;&gt;肌肉协同分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="613" y="220.88" width="156" height="27.12" as="geometry" />
+          <mxGeometry x="613" y="225.88" width="156" height="27.12" as="geometry" />
         </mxCell>
         <mxCell id="N3jodyjK-mnA41jBUrkP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="46" y="1053" width="399" height="318" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffcc99;strokeColor=none;fontStyle=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="27" y="677" width="372" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;gradientColor=#ffd966;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="228.75" y="543" width="170.25" height="121.37" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-4" value="运动功能评估模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="103" y="518.38" width="235.12" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#d5e8d4;strokeColor=none;fontStyle=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="542.63" width="172" height="122.37" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-6" value="均方根(RMS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="584" width="142" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-7" value="&lt;div style=&quot;&quot;&gt;时频域特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="235" y="572.63" width="156" height="27.37" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-8" value="蹬车数据: 患侧 vs 健侧&lt;br style=&quot;font-size: 18px;&quot;&gt;临床数据: 患侧 vs 健侧" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="30.75" y="712.25" width="198.5" height="52.25" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-9" value="One-Way ANOVA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="42" y="791" width="168" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-10" value="回归模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="218.25" y="791" width="168" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-11" value="&lt;span style=&quot;&quot;&gt;肌电信号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="240" y="543.63" width="142.82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-12" value="统计学分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="27" y="683.25" width="227" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-13" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
-          <mxGeometry x="116" y="767" width="28" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-14" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
-          <mxGeometry x="282" y="767" width="28" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-15" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;加速度+陀螺仪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="36" y="548.63" width="155" height="23.75" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="202" y="652" width="25" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-17" value="运动协同分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="621" width="142" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小波包能量熵&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="235" y="604" width="156" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-19" value="&lt;div style=&quot;&quot;&gt;肌肉协同分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;align=center;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="235" y="633.88" width="156" height="27.12" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-20" value="相关性分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200.38" y="687" width="227" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-21" value="特征与FMA分数的相关性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="254" y="714.75" width="126.5" height="52.25" as="geometry" />
-        </mxCell>
         <mxCell id="N3jodyjK-mnA41jBUrkP-22" value="肘/膝 关节运动分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=22;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="111" y="282.25" width="193" height="27.75" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-23" value="肘/膝关节轴" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="34" y="376" width="106.08" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-24" value="关节角度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="375.25" width="91.25" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-25" value="数据分段" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="376.25" width="92" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="N3jodyjK-mnA41jBUrkP-24" target="N3jodyjK-mnA41jBUrkP-25" parent="1">
+        <mxCell id="N3jodyjK-mnA41jBUrkP-28" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="N3jodyjK-mnA41jBUrkP-24" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="153" y="399.25" as="sourcePoint" />
-            <mxPoint x="133" y="399.25" as="targetPoint" />
+            <mxPoint x="358.5" y="491.32055749128926" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-30" value="肘/膝 关节运动分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=22;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="111" y="282.25" width="193" height="27.75" as="geometry" />
+        <mxCell id="N3jodyjK-mnA41jBUrkP-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffcc99;strokeColor=none;fontStyle=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="277.25" width="361" height="154.75" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-31" value="肘/膝关节轴" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="34" y="376" width="106.08" height="46" as="geometry" />
+        <mxCell id="N3jodyjK-mnA41jBUrkP-42" value="蹬车数据: 患侧 vs 健侧&lt;br style=&quot;font-size: 18px;&quot;&gt;临床数据: 患侧 vs 健侧" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="413.17" y="312.25" width="189.83" height="52.25" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-32" value="关节角度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="375.25" width="91.25" height="47" as="geometry" />
+        <mxCell id="N3jodyjK-mnA41jBUrkP-43" value="One-Way ANOVA" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="419" y="391.25" width="168" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-33" value="数据分段" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="376.25" width="92" height="44" as="geometry" />
+        <mxCell id="N3jodyjK-mnA41jBUrkP-44" value="回归模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="595.25" y="391.25" width="168" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="N3jodyjK-mnA41jBUrkP-36" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="N3jodyjK-mnA41jBUrkP-32" target="N3jodyjK-mnA41jBUrkP-33" parent="1">
+        <mxCell id="N3jodyjK-mnA41jBUrkP-45" value="统计学分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="454" y="280.25" width="119.83" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="N3jodyjK-mnA41jBUrkP-46" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
+          <mxGeometry x="493" y="367.25" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="N3jodyjK-mnA41jBUrkP-47" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#E0E0E0;arrowWidth=0.5;arrowSize=0.4523809523809524;" vertex="1" parent="1">
+          <mxGeometry x="659" y="367.25" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="N3jodyjK-mnA41jBUrkP-48" value="相关性分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="646" y="280.25" width="110" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="N3jodyjK-mnA41jBUrkP-49" value="特征与FMA分数的相关性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=default;arcSize=6;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="635.62" y="312" width="126.5" height="52.25" as="geometry" />
+        </mxCell>
+        <mxCell id="N3jodyjK-mnA41jBUrkP-50" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N3jodyjK-mnA41jBUrkP-42" target="N3jodyjK-mnA41jBUrkP-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="153" y="399.25" as="sourcePoint" />
-            <mxPoint x="133" y="399.25" as="targetPoint" />
+            <mxPoint x="638.75" y="-163.99999999999977" as="sourcePoint" />
+            <mxPoint x="664.5" y="-164.17944250871074" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UGK5M1_wHmO0Nht1jsvW-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=12.9;notch=0;fontFamily=Times New Roman;fontSize=4;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="580" y="244" width="25" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
