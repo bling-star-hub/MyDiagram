@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T06:57:18.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hwFOnKUg50EfPutifNAt" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-28T06:59:34.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mqtp6j3c4vjslkSkoetn" version="20.8.13" type="github" pages="2">
   <diagram id="ikri9ybtPBQ5KLtUCBbO" name="第 2 页">
-    <mxGraphModel dx="2876" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,10 +50,10 @@
           <mxGeometry x="928" y="245" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="EdSdNE1u-Ru90-D9KI5f-19" value="Local Regressor (IMU)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeColor=default;direction=west;flipV=1;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="984.5" y="123" width="269" height="34" as="geometry" />
+          <mxGeometry x="984.5" y="123" width="237.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="EdSdNE1u-Ru90-D9KI5f-21" value="Local Regressor (EMG)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeColor=default;direction=west;flipV=1;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="984.5" y="353.5" width="271" height="33" as="geometry" />
+          <mxGeometry x="984.5" y="353.5" width="240.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="EdSdNE1u-Ru90-D9KI5f-23" value="Multi-modal Fusion Regressor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeColor=none;direction=west;flipV=1;flipH=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="978.5" y="212.00000000000003" width="255" height="32" as="geometry" />
@@ -79,14 +79,16 @@
         <mxCell id="EdSdNE1u-Ru90-D9KI5f-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="984.5" y="205" width="243" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="EdSdNE1u-Ru90-D9KI5f-33" value="Quanlitative&lt;br&gt;Scores" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeColor=none;direction=west;flipV=1;flipH=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="234" width="95" height="51.5" as="geometry" />
+        <mxCell id="EdSdNE1u-Ru90-D9KI5f-33" value="Quantitative&lt;br&gt;Scores" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeColor=none;direction=west;flipV=1;flipH=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1276" y="234.5" width="95" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="EdSdNE1u-Ru90-D9KI5f-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=3;fontFamily=Times New Roman;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="EdSdNE1u-Ru90-D9KI5f-19" target="EdSdNE1u-Ru90-D9KI5f-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1095" y="421" as="sourcePoint" />
             <mxPoint x="1145" y="371" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1247" y="223" />
+              <mxPoint x="1252" y="222" />
               <mxPoint x="1270" y="240" />
               <mxPoint x="1403" y="204" />
               <mxPoint x="1412" y="260" />
